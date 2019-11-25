@@ -62,7 +62,7 @@ La segunda sección de este proyecto sugiere analizar dos páginas con contenido
 
 ### Markdown vs Rstudiopubs
 
-Markdown y Rstudiopubs son dos páginas que tienen el objetivo de funcionar como guía de Markdown al usuario nuevo. La primera diferencia puede apreciarse ni biene inicia el contenido. El primer sitio, tiene una muy breve introducción a los puntos que se van a tratar, mientras que Rstudiopubs le dedica un párrafo entero a explicar lo que es markdown y su uso. Punto fundamental, dado que el targuet de usuario es alguien que busca aprender sobre el lenguaje.
+Markdown y Rstudiopubs son dos páginas que tienen el objetivo de funcionar como guía de Markdown al usuario nuevo. La primera diferencia puede apreciarse ni bien inicia el contenido. El primer sitio, tiene una muy breve introducción a los puntos que se van a tratar, mientras que Rstudiopubs le dedica un párrafo entero a explicar lo que es markdown y su uso. Punto fundamental, dado que el targuet de usuario es alguien que busca aprender sobre el lenguaje.
 
 Ambas guías estructuran el contenido del lenguaje correctamente. Sin embargo, RSP resulta mucho mas claro visualmente. Aquí hay varias razones. Por un lado, MD incluye muchas descripciones en un tema que debiera ser más conciso, mostrando codigo y resultado. Esto genera un poco de confusión porque no puede apreciarse de forma rápida la comparación entre el lenguaje a entrar y el output. Además el sitio MD contiene una gran cantidad de anuncios de display que impiden la lectura de corrido del tema, haciendo más tediosa la experiencia en página. A favor de MD cabe destacar que incluyó un índice, recurso que hace más eficaz la navegación del contenido. Hubiese sido de gran ayuda a la hora de navegar la página de RSP.
 
